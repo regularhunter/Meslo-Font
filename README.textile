@@ -1,6 +1,6 @@
 h1. About Meslo LG
 
-h3. Version 1.21
+h3. Version 1.2.2
 
 Meslo LG is a customized version of Apple's Menlo-Regular font
 (which is a customized Bitstream Vera Sans Mono).
@@ -93,6 +93,13 @@ v1.2.1
   Also, sorry, no Arabic support yet since I haven't found a Bitstream like font  
   that allows extracting portions of arabic code pages to be used in another font.</i>
 
+v1.2.1
+
+- Fix swapped italic Cyrillic characters (issue #37)
+- Swap bold and non-bold period glyph "." as it appeared they were swapped by mistake (issue #36)
+- Fix centering on M and N glyphs (issue #34)
+- Remove undesired fi ligature to address (issue #20)
+
 h3. Copyright and Trademark Information
 
 Menlo is a Trademark of Apple Inc. 
@@ -114,7 +121,7 @@ Also, huge thanks to George Williams for the free font editing program "FontForg
 
 h3. License
 
-Copyright 2009, 2010, 2013 André Berg
+Copyright 2009-2025 André Berg
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
