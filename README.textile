@@ -93,7 +93,7 @@ v1.2.1
   Also, sorry, no Arabic support yet since I haven't found a Bitstream like font  
   that allows extracting portions of arabic code pages to be used in another font.</i>
 
-v1.2.1
+v1.2.2
 
 - Fix swapped italic Cyrillic characters (issue #37)
 - Swap bold and non-bold period glyph "." as it appeared they were swapped by mistake (issue #36)
