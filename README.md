@@ -104,7 +104,12 @@ v1.2.2
 Menlo is a Trademark of Apple Inc.<br>
 Bitstream Vera is a trademark of Bitstream, Inc., designed by Jim Lyles.
 
-Copyright © 2009, 2010, 2013 André Berg.<br>
+Meslo
+
+Copyright © 2009, 2010, 2013 André Berg.
+
+Menlo
+
 Copyright © 2009 Apple Inc.<br>
 Copyright © 2006 by Tavmjong Bah.<br>
 Copyright © 2003 by Bitstream, Inc. All Rights Reserved.
@@ -130,5 +135,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
 
