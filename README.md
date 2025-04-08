@@ -1,6 +1,6 @@
-h1. About Meslo LG
+# About Meslo LG
 
-h3. Version 1.2.2
+### Version 1.2.2
 
 Meslo LG is a customized version of Apple's Menlo-Regular font
 (which is a customized Bitstream Vera Sans Mono).
@@ -41,7 +41,7 @@ Have Fun!
 
 André Berg
 
-h3. History
+### History
 
 v0.1
 
@@ -75,53 +75,49 @@ Added a dotted zero version of Meslo LG which is called Meslo LG DZ.
 
 v1.2
 
-- reworked all OS/2 metrics to perform uniformly across platforms...  
+* reworked all OS/2 metrics to perform uniformly across platforms...  
 
-- ...which should fix issues with monospace layout and line height on Windows.  
+* ...which should fix issues with monospace layout and line height on Windows.  
   (tests in Notepad, Eclipse and Visual Studio 2012 Express on Windows 7 x64 SP1  
   look promising).
   
 v1.2.1
 
-- improved ClearType and DirectWrite hinting on Windows 7+ systems.
-
-- fixed a hinting issue on Windows making the 0 (zero) glyph appear taller for   
+* improved ClearType and DirectWrite hinting on Windows 7+ systems.
+* fixed a hinting issue on Windows making the 0 (zero) glyph appear taller for   
   some PPEM sizes.
-
-  <i>Note: if you are on OS X and are currently happy with Meslo v1.0 there is  
+  
+ *Note: if you are on OS X and are currently happy with Meslo v1.0 there is  
   no need to upgrade to v1.2 since this version is just fixes for Windows mostly.  
   Also, sorry, no Arabic support yet since I haven't found a Bitstream like font  
-  that allows extracting portions of arabic code pages to be used in another font.</i>
+  that allows extracting portions of arabic code pages to be used in another font.*
 
 v1.2.2
 
-- Fix swapped italic Cyrillic characters (issue #37)
-- Swap bold and non-bold period glyph "." as it appeared they were swapped by mistake (issue #36)
-- Fix centering on M and N glyphs (issue #34)
-- Remove undesired fi ligature to address (issue #20)
+* Fix swapped italic Cyrillic characters (issue #37)
+* Swap bold and non-bold period glyph "." as it appeared they were swapped by mistake (issue #36)
+* Fix centering on M and N glyphs (issue #34)
+* Remove undesired fi ligature to address (issue #20)
 
-h3. Copyright and Trademark Information
+### Copyright and Trademark Information
 
 Menlo is a Trademark of Apple Inc. 
 Bitstream Vera is a trademark of Bitstream, Inc., designed by Jim Lyles.
 
-Menlo-Regular:
-
-Copyright © 2009 Apple Inc. 
-Copyright © 2006 by Tavmjong Bah. 
+Copyright © 2009, 2010, 2013 André Berg.<br>
+Copyright © 2009 Apple Inc.<br>
+Copyright © 2006 by Tavmjong Bah.<br>
 Copyright © 2003 by Bitstream, Inc. All Rights Reserved.
 
 All other brands and product names not specifically listed are trademarks or 
 registered trademarks of their respective owners.
 
-h3. Thanks
+### Thanks
 
 Thank you to Jim Lyles and Bitstream for the Bitstream Vera family of fonts.
 Also, huge thanks to George Williams for the free font editing program "FontForge":http://fontforge.org.
 
-h3. License
-
-Copyright 2009-2025 André Berg
+### License
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -134,3 +130,4 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
