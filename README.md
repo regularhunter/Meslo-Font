@@ -14,7 +14,7 @@ I really like Menlo but I do have my nitpicky gripes with it:
 * The default vertical (line) spacing is just way to cramped for me, and also
 * I am not particularly fond of the horizontal baseline alignment of the asterisk.
 
-That's why I decided to customize Menlo, regarding these "issues".
+That's why I decided to customize Menlo, regarding these issues.
 The tricky part is keeping all the custom tables, hints, etc. intact when you 
 adjust the globally very affecting stuff that results in vertical spacing. 
 
@@ -22,20 +22,17 @@ The LG in Meslo LG stands for Line Gap. The idea behind it is to allow the user
 to have some control over vertical spacing by choosing one of three line gap 
 variants: small, medium and large (Meslo LG S, Meslo LG M and Meslo LG L respectively). 
 
-If you're interested in looks, you can find a "comparison": http://github.com/andreberg/Meslo-Font/wiki/Menlo-Meslo-LG-Compared-%28Mac-OS-X%29 (for Mac OS X) in the Wiki.
-And here's some "example screenshots": http://github.com/andreberg/Meslo-Font/wiki/Meslo-LG-Examples-%28Windows%29 for Windows.
+If you're interested in looks, you can find a comparison: http://github.com/andreberg/Meslo-Font/wiki/Menlo-Meslo-LG-Compared-%28Mac-OS-X%29 (for Mac OS X) in the Wiki.
+And here's some example screenshots: http://github.com/andreberg/Meslo-Font/wiki/Meslo-LG-Examples-%28Windows%29 for Windows.
 
 For a possible way to install this font on your Windows console please see 
-"Using Meslo LG with the Windows Console": http://github.com/andreberg/Meslo-Font/wiki/Using-Meslo-LG-with-the-Windows-Console.
+Using Meslo LG with the Windows Console: http://github.com/andreberg/Meslo-Font/wiki/Using-Meslo-LG-with-the-Windows-Console.
 
-You can find a FAQ "here": http://github.com/andreberg/Meslo-Font/wiki/Frequently-Answered-Questions.
+You can find a FAQ here: http://github.com/andreberg/Meslo-Font/wiki/Frequently-Answered-Questions.
 
-For more articles please refer to the "Meslo-Font Wiki": http://github.com/andreberg/Meslo-Font/wiki.
+For more articles please refer to the Meslo-Font Wiki: http://github.com/andreberg/Meslo-Font/wiki.
 Last, but not least, for additional info and comparisons please consult the About PDF that comes with the 
 downloadable ZIP archive.
-
-%{color:crimson}NOTE: the downloads tab is no longer supported on GitHub.%
-%{color:crimson}This just means you now download the font through the repository ZIP<br>which you can get up top or% "HERE": http://github.com/andreberg/Meslo-Font/archive/master.zip
 
 Have Fun!
 
@@ -120,7 +117,7 @@ registered trademarks of their respective owners.
 ### Thanks
 
 Thank you to Jim Lyles and Bitstream for the Bitstream Vera family of fonts.
-Also, huge thanks to George Williams for the free font editing program "FontForge": http://fontforge.org.
+Also, huge thanks to George Williams for the free font editing program FontForge: http://fontforge.org.
 
 ### License
 
@@ -135,4 +132,5 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
 
