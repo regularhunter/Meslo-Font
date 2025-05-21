@@ -22,17 +22,21 @@ The LG in Meslo LG stands for Line Gap. The idea behind it is to allow the user
 to have some control over vertical spacing by choosing one of three line gap 
 variants: small, medium and large (Meslo LG S, Meslo LG M and Meslo LG L respectively). 
 
-You can find a [comparison for Mac OS X](http://github.com/andreberg/Meslo-Font/wiki/Menlo-Meslo-LG-Compared-%28Mac-OS-X%29) in the Wiki
-and some example [screenshots for Windows](http://github.com/andreberg/Meslo-Font/wiki/Meslo-LG-Examples-%28Windows%29).
+You can find a 
+[comparison for Mac OS X](http://github.com/andreberg/Meslo-Font/wiki/Menlo-Meslo-LG-Compared-%28Mac-OS-X%29) in the Wiki
+and some example 
+[screenshots for Windows](http://github.com/andreberg/Meslo-Font/wiki/Meslo-LG-Examples-%28Windows%29).
 
 For a possible way to install this font on your Windows console please see 
 [Using Meslo LG with the Windows Console](http://github.com/andreberg/Meslo-Font/wiki/Using-Meslo-LG-with-the-Windows-Console).
 
-You can find a FAQ [here](http://github.com/andreberg/Meslo-Font/wiki/Frequently-Answered-Questions).
+You can find a FAQ 
+[here](http://github.com/andreberg/Meslo-Font/wiki/Frequently-Answered-Questions).
 
-For more articles please refer to the [Meslo-Font Wiki](http://github.com/andreberg/Meslo-Font/wiki).
-Last, but not least, for additional info and comparisons please consult the About PDF that comes with the 
-downloadable ZIP archive.
+For more articles please refer to the 
+[Meslo-Font Wiki](http://github.com/andreberg/Meslo-Font/wiki).
+Last, but not least, for additional info and comparisons please consult 
+the About PDF that comes with the downloadable ZIP archive.
 
 Have Fun!
 
@@ -49,9 +53,9 @@ v1.0
 Meslo has changed it's name to Meslo LG which now includes three variants: 
 small, medium and large.
 
-LG stands for Line Gap, so there's one variant for smaller vertical line spacing, 
-more towards Apple's Menlo, a normal line gap (which equals Meslo v0.1) and 
-a large gap, which is more than twice the space of Apple's Menlo.
+LG stands for Line Gap, so there's one variant for smaller vertical line 
+spacing, more towards Apple's Menlo, a normal line gap (which equals Meslo v0.1)
+ and a large gap, which is more than twice the space of Apple's Menlo.
 
 In addition to Regular, there's Italic, Bold and Bold Italic font styles 
 included for each LG variant.
@@ -123,7 +127,8 @@ registered trademarks of their respective owners.
 ### Thanks
 
 Thank you to Jim Lyles and Bitstream for the Bitstream Vera family of fonts.
-Also, huge thanks to George Williams for the free font editing program [FontForge](http://fontforge.org).
+Also, huge thanks to George Williams for the free font editing program 
+[FontForge](http://fontforge.org).
 
 ### License
 
