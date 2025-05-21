@@ -1,6 +1,6 @@
 # About Meslo LG
 
-### Version 1.2.3
+### Version 1.2.4
 
 Meslo LG is a customized version of Apple's Menlo-Regular font
 (which is a customized Bitstream Vera Sans Mono).
@@ -105,6 +105,10 @@ v1.2.3
 * Shorten non-bold comma glyph for consistency with other glyphs
 * Shrink bold period glyph to match other punctuation
 * Revert exclamation point glyph style back to that of Bitstream Vera Sans Mono
+
+v1.2.4
+
+* Center bold and bold-italic period glyph
 
 ### Copyright and Trademark Information
 
