@@ -1,6 +1,6 @@
 # About Meslo LG
 
-### Version 1.2.2
+### Version 1.2.3
 
 Meslo LG is a customized version of Apple's Menlo-Regular font
 (which is a customized Bitstream Vera Sans Mono).
