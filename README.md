@@ -22,15 +22,15 @@ The LG in Meslo LG stands for Line Gap. The idea behind it is to allow the user
 to have some control over vertical spacing by choosing one of three line gap 
 variants: small, medium and large (Meslo LG S, Meslo LG M and Meslo LG L respectively). 
 
-If you're interested in looks, you can find a comparison: http://github.com/andreberg/Meslo-Font/wiki/Menlo-Meslo-LG-Compared-%28Mac-OS-X%29 (for Mac OS X) in the Wiki.
-And here's some example screenshots: http://github.com/andreberg/Meslo-Font/wiki/Meslo-LG-Examples-%28Windows%29 for Windows.
+You can find a [comparison for Mac OS X](http://github.com/andreberg/Meslo-Font/wiki/Menlo-Meslo-LG-Compared-%28Mac-OS-X%29) in the Wiki
+and some example [screenshots for Windows](http://github.com/andreberg/Meslo-Font/wiki/Meslo-LG-Examples-%28Windows%29).
 
 For a possible way to install this font on your Windows console please see 
-Using Meslo LG with the Windows Console: http://github.com/andreberg/Meslo-Font/wiki/Using-Meslo-LG-with-the-Windows-Console.
+[Using Meslo LG with the Windows Console](http://github.com/andreberg/Meslo-Font/wiki/Using-Meslo-LG-with-the-Windows-Console).
 
-You can find a FAQ here: http://github.com/andreberg/Meslo-Font/wiki/Frequently-Answered-Questions.
+You can find a FAQ [here](http://github.com/andreberg/Meslo-Font/wiki/Frequently-Answered-Questions).
 
-For more articles please refer to the Meslo-Font Wiki: http://github.com/andreberg/Meslo-Font/wiki.
+For more articles please refer to the [Meslo-Font Wiki](http://github.com/andreberg/Meslo-Font/wiki).
 Last, but not least, for additional info and comparisons please consult the About PDF that comes with the 
 downloadable ZIP archive.
 
@@ -117,7 +117,7 @@ registered trademarks of their respective owners.
 ### Thanks
 
 Thank you to Jim Lyles and Bitstream for the Bitstream Vera family of fonts.
-Also, huge thanks to George Williams for the free font editing program FontForge: http://fontforge.org.
+Also, huge thanks to George Williams for the free font editing program [FontForge](http://fontforge.org).
 
 ### License
 
