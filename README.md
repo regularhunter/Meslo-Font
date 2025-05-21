@@ -96,6 +96,11 @@ v1.2.2
 * Fix centering on M and N glyphs (issue #34)
 * Remove undesired fi ligature to address (issue #20)
 
+v1.2.3
+
+* Shorten length of non-bold comma glyph for consistency with other glyphs
+* Reduce size of bold period glyph to match other punctuation
+
 ### Copyright and Trademark Information
 
 Menlo is a Trademark of Apple Inc.<br>
