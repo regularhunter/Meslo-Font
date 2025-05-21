@@ -98,8 +98,9 @@ v1.2.2
 
 v1.2.3
 
-* Shorten length of non-bold comma glyph for consistency with other glyphs
-* Reduce size of bold period glyph to match other punctuation
+* Shorten non-bold comma glyph for consistency with other glyphs
+* Shrink bold period glyph to match other punctuation
+* Revert exclamation point glyph style back to that of Bitstream Vera Sans Mono
 
 ### Copyright and Trademark Information
 
